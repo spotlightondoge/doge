@@ -1,0 +1,9 @@
+selenium
+webdriver_manager
+jupyter
+pandas
+openpyxl
+playwright
+lxml
+python-dotenv
+openai
