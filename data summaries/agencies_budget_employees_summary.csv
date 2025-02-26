@@ -1,109 +1,152 @@
-,Department,Number of Employees,Agency,Congressional Justification of Budget (CJ),Budget,Percent of Total Budget
-2,Department of Defense (DOD),757786.0,Department of Defense (DOD),https://www.defense.gov/cj,"$1,713,980,313,483",15.83%
-4,Department of Veterans Affairs (VA),480579.0,Department of Veterans Affairs (VA),https://www.va.gov/cj,"$407,272,934,513",3.76%
-9,Department of Homeland Security (DHS),222173.0,Department of Homeland Security (DHS),https://www.dhs.gov/cj,"$165,732,491,450",1.53%
-20,Department of Justice (DOJ),123377.0,Department of Justice (DOJ),https://www.justice.gov/cj,"$46,415,907,809",0.43%
-0,Department of the Treasury (TREAS),112399.0,Department of the Treasury (TREAS),https://www.treasury.gov/cj,"$3,125,545,544,294",28.86%
-1,Department of Health and Human Services (HHS),98686.0,Department of Health and Human Services (HHS),https://www.hhs.gov/cj,"$2,369,129,444,329",21.88%
-5,Department of Agriculture (USDA),90664.0,Department of Agriculture (USDA),https://www.usda.gov/cj,"$340,881,137,591",3.15%
-15,Department of the Interior (DOI),63682.0,Department of the Interior (DOI),https://www.doi.gov/cj,"$75,513,459,634",0.70%
-8,Department of Transportation (DOT),55508.0,Department of Transportation (DOT),https://www.transportation.gov/cj,"$229,668,780,927",2.12%
-14,Department of Commerce (DOC),54250.0,Department of Commerce (DOC),https://www.commerce.gov/cj,"$90,242,401,519",0.83%
-17,Department of State (DOS),18991.0,Department of State (DOS),https://www.state.gov/cj,"$57,197,594,886",0.53%
-22,National Aeronautics and Space Administration (NASA),18073.0,National Aeronautics and Space Administration (NASA),https://www.nasa.gov/cj,"$21,482,485,297",0.20%
-18,Environmental Protection Agency (EPA),16529.0,Environmental Protection Agency (EPA),https://www.epa.gov/cj,"$48,628,262,268",0.45%
-10,Department of Energy (DOE),15388.0,Department of Energy (DOE),https://energy.gov/cj,"$131,893,773,207",1.22%
-21,Department of Labor (DOL),12387.0,Department of Labor (DOL),https://www.dol.gov/cj,"$25,748,101,540",0.24%
-19,General Services Administration (GSA),11241.0,General Services Administration (GSA),https://www.gsa.gov/cj,"$48,322,595,047",0.45%
-7,Department of Housing and Urban Development (HUD),6443.0,Department of Housing and Urban Development (HUD),https://www.hud.gov/cj,"$243,042,593,624",2.24%
-6,Office of Personnel Management (OPM),3921.0,Office of Personnel Management (OPM),https://www.opm.gov/cj,"$332,817,776,552",3.07%
-12,Department of Education (ED),3083.0,Department of Education (ED),https://www.ed.gov/cj,"$103,092,839,666",0.95%
-28,Consumer Financial Protection Bureau (CFPB),1687.0,Consumer Financial Protection Bureau (CFPB),https://www.consumerfinance.gov/cj,"$2,757,339,652",0.03%
-34,Executive Office of the President (EOP),938.0,Executive Office of the President (EOP),https://www.whitehouse.gov/wp-content/uploads/2021/06/EOP-FY2022-Congressional-Budget-Submission.pdf,"$842,846,875",0.01%
-25,U.S. International Development Finance Corporation (DFC),680.0,U.S. International Development Finance Corporation (DFC),not available,"$7,519,575,548",0.07%
-57,United States Trade and Development Agency (USTDA),71.0,United States Trade and Development Agency (USTDA),https://www.ustda.gov/cj,"$127,522,040",Less than 0.01%
-107,Federal Communications Commission (FCC),47.0,Federal Communications Commission (FCC),https://www.fcc.gov/cj,"-$17,578,624,571",-0.16%
-3,,,Social Security Administration (SSA),https://www.ssa.gov/cj,"$452,144,957,484",4.17%
-11,,,Federal Deposit Insurance Corporation (FDIC),https://www.fdic.gov/cj,"$116,546,578,318",1.08%
-13,,,Pension Benefit Guaranty Corporation (PBGC),https://www.pbgc.gov/cj,"$90,657,490,786",0.84%
-16,,,Corps of Engineers - Civil Works (USACE),https://www.usace.army.mil/Missions/Civil-Works/cj,"$66,328,433,137",0.61%
-23,,,Railroad Retirement Board (RRB),https://www.rrb.gov/cj,"$16,894,592,930",0.16%
-24,,,Farm Credit System Insurance Corporation (FCSIC),https://www.fcsic.gov/cj,"$7,857,067,987",0.07%
-26,,,Small Business Administration (SBA),https://www.sba.gov/cj,"$6,258,875,842",0.06%
-27,,,National Science Foundation (NSF),https://www.nsf.gov/cj,"$5,388,966,076",0.05%
-29,,,Millennium Challenge Corporation (MCC),https://www.mcc.gov/cj,"$2,688,308,725",0.02%
-30,,,Securities and Exchange Commission (SEC),https://www.sec.gov/cj,"$1,951,500,350",0.02%
-31,,,Corporation for National and Community Service (CNCS),https://www.nationalservice.gov/cj,"$1,898,483,885",0.02%
-32,,,Patient-Centered Outcomes Research Trust Fund (PCORTF),not available,"$1,161,850,092",0.01%
-33,,,Agency for International Development (USAID),https://www.usaid.gov/cj,"$892,109,640",0.01%
-35,,,Commodity Futures Trading Commission (CFTC),https://www.cftc.gov/cj,"$783,763,545",0.01%
-36,,,National Archives and Records Administration (NARA),https://www.archives.gov/cj,"$636,741,882",0.01%
-37,,,Nuclear Regulatory Commission (NRC),https://www.nrc.gov/cj,"$518,853,882",Less than 0.01%
-38,,,Presidio Trust (PRESIDIO),https://www.presidio.gov/presidio-trust/planning-internal/Shared%20Documents/Financial%20Documents/FIN-311-FY2022BudJust-20210602.pdf,"$514,721,398",Less than 0.01%
-39,,,U.S. Agency for Global Media (USAGM),not available,"$512,127,265",Less than 0.01%
-40,,,Government Accountability Office (GAO),https://www.gao.gov/products/gao-21-510t,"$446,760,260",Less than 0.01%
-41,,,Gulf Coast Ecosystem Restoration Council (GCERC),https://www.restorethegulf.gov/cj,"$312,241,990",Less than 0.01%
-42,,,Peace Corps (PC),https://www.peacecorps.gov/cj,"$279,549,183",Less than 0.01%
-43,,,Export-Import Bank of the United States (EXIM),https://www.exim.gov/cj,"$272,797,590",Less than 0.01%
-44,,,Federal Trade Commission (FTC),https://www.ftc.gov/cj,"$250,777,123",Less than 0.01%
-45,,,Northern Border Regional Commission (NBRC),https://www.nbrc.gov/content/CJ,"$234,209,811",Less than 0.01%
-46,,,District of Columbia Courts (DC COURTS),https://www.dccourts.gov/cj,"$232,847,960",Less than 0.01%
-47,,,Equal Employment Opportunity Commission (EEOC),https://www.eeoc.gov/cj,"$232,290,527",Less than 0.01%
-48,,,Federal Permitting Improvement Steering Council (FPISC),https://www.permits.performance.gov/documentation/fpisc-fy-2022-budget-request,"$223,313,292",Less than 0.01%
-49,,,Court Services and Offender Supervision Agency (CSOSA),https://www.csosa.gov/cj,"$212,439,895",Less than 0.01%
-50,,,Institute of Museum and Library Services (IMLS),https://www.imls.gov/cj,"$162,467,565",Less than 0.01%
-51,,,Armed Forces Retirement Home (AFRH),not available,"$160,866,366",Less than 0.01%
-52,,,National Labor Relations Board (NLRB),https://www.nlrb.gov/cj,"$150,422,004",Less than 0.01%
-53,,,American Battle Monuments Commission (ABMC),https://www.abmc.gov/cj,"$145,716,391",Less than 0.01%
-54,,,National Endowment for the Humanities (NEH),https://www.neh.gov/cj,"$142,599,625",Less than 0.01%
-55,,,Denali Commission (DENALI),https://www.denali.gov/cj,"$142,294,938",Less than 0.01%
-56,,,International Trade Commission (USITC),https://www.usitc.gov/cj,"$131,276,337",Less than 0.01%
-58,,,National Endowment for the Arts (NEA),https://www.arts.gov/cj,"$124,111,673",Less than 0.01%
-59,,,United States Court of Appeals for Veterans Claims (CAVC),https://www.uscourts.cavc.gov/cj,"$98,198,061",Less than 0.01%
-60,,,National Transportation Safety Board (NTSB),https://www.ntsb.gov/cj,"$94,144,530",Less than 0.01%
-61,,,Election Assistance Commission (EAC),https://www.eac.gov/cj,"$77,438,753",Less than 0.01%
-62,,,Consumer Product Safety Commission (CPSC),https://www.cpsc.gov/cj,"$74,319,164",Less than 0.01%
-63,,,Council of the Inspectors General on Integrity and Efficiency (CIGIE),https://www.ignet.gov/cj,"$67,735,777",Less than 0.01%
-64,,,Federal Mediation and Conciliation Service (FMCS),https://www.fmcs.gov/cj,"$45,354,632",Less than 0.01%
-65,,,Federal Election Commission (FEC),https://www.fec.gov/cj,"$45,191,023",Less than 0.01%
-66,,,Barry Goldwater Scholarship and Excellence In Education Foundation (GOLDWATER),http://goldwaterscholarship.gov/,"$40,819,574",Less than 0.01%
-67,,,Inter-American Foundation (IAF),not available,"$39,364,937",Less than 0.01%
-68,,,African Development Foundation (USADF),https://www.usadf.gov/cj,"$38,953,733",Less than 0.01%
-69,,,James Madison Memorial Fellowship Foundation (MADISON),not available,"$36,002,850",Less than 0.01%
-70,,,Merit Systems Protection Board (MSPB),https://www.mspb.gov/cj,"$29,447,634",Less than 0.01%
-71,,,Defense Nuclear Facilities Safety Board (DNFSB),https://www.dnfsb.gov/cj,"$27,813,096",Less than 0.01%
-72,,,Surface Transportation Board (STB),https://www.stb.gov/cj,"$27,449,090",Less than 0.01%
-73,,,Harry S Truman Scholarship Foundation (TRUMAN),not available,"$25,160,866",Less than 0.01%
-74,,,Morris K. Udall and Stewart L. Udall Foundation (UDALL),https://udall.gov/cj,"$23,047,012",Less than 0.01%
-75,,,Federal Maritime Commission (FMC),https://www.fmc.gov/cj,"$22,381,144",Less than 0.01%
-76,,,Overseas Private Investment Corporation (OPIC),https://www.opic.gov/cj,"$19,803,044",Less than 0.01%
-77,,,Selective Service System (SSS),https://www.sss.gov/cj,"$19,118,032",Less than 0.01%
-78,,,Office of Government Ethics (OGE),https://www.oge.gov/cj,"$16,627,193",Less than 0.01%
-79,,,Federal Mine Safety and Health Review Commission (FMSHRC),https://www.fmshrc.gov/cj,"$15,352,499",Less than 0.01%
-80,,,Appalachian Regional Commission (ARC),https://www.arc.gov/cj,"$15,346,375",Less than 0.01%
-81,,,Office of Special Counsel (OSC),https://osc.gov/cj,"$14,983,540",Less than 0.01%
-82,,,National Credit Union Administration (NCUA),https://www.ncua.gov/cj,"$13,908,657",Less than 0.01%
-83,,,Federal Labor Relations Authority (FLRA),https://www.flra.gov/cj,"$13,666,920",Less than 0.01%
-84,,,United States Chemical Safety Board (CSB),https://www.csb.gov/cj,"$12,754,024",Less than 0.01%
-85,,,National Capital Planning Commission (NCPC),https://www.ncpc.gov/docs/NCPC_Justification_for_Appropriation_FY_2022.pdf,"$12,230,774",Less than 0.01%
-86,,,Privacy and Civil Liberties Oversight Board (PCLOB),not available,"$10,729,580",Less than 0.01%
-87,,,Advisory Council on Historic Preservation (ACHP),https://www.achp.gov/sites/default/files/2021-06/ACHP%202022%20Budget%20Justification-final-5-10-21.pdf,"$10,714,903",Less than 0.01%
-88,,,Occupational Safety and Health Review Commission (OSHRC),https://www.oshrc.gov/cj,"$10,497,219",Less than 0.01%
-89,,,National Mediation Board (NMB),https://nmb.gov/cj,"$9,842,953",Less than 0.01%
-90,,,Committee for Purchase from People Who Are Blind or Severely Disabled (ABILITYONE),https://www.abilityone.gov/cj,"$9,825,723",Less than 0.01%
-91,,,Commission on Civil Rights (USCCR),https://www.usccr.gov/cj/,"$8,778,378",Less than 0.01%
-92,,,Access Board (USAB),https://www.access-board.gov/cj,"$7,998,645",Less than 0.01%
-93,,,Commission of Fine Arts (CFA),https://www.cfa.gov/cj,"$4,938,537",Less than 0.01%
-94,,,Office of Navajo and Hopi Indian Relocation (ONHIR),not available,"$4,867,768",Less than 0.01%
-95,,,Nuclear Waste Technical Review Board (NWTRB),https://www.nwtrb.gov/cj,"$2,993,739",Less than 0.01%
-96,,,Japan-United States Friendship Commission (JUSFC),not available,"$2,197,162",Less than 0.01%
-97,,,Administrative Conference of the U.S. (ACUS),https://www.acus.gov/cj,"$1,685,674",Less than 0.01%
-98,,,Vietnam Education Foundation (VEF),not available,$0,Less than 0.01%
-99,,,U.S. Interagency Council on Homelessness (USICH),https://www.usich.gov/cj,$0,Less than 0.01%
-100,,,Public Buildings Reform Board (PBRB),https://www.pbrb.gov/cj/,$0,Less than 0.01%
-101,,,National Council on Disability (NCD),https://www.ncd.gov/cj,$0,Less than 0.01%
-102,,,Marine Mammal Commission (MMC),https://www.mmc.gov/cj,$0,Less than 0.01%
-103,,,John F. Kennedy Center for the Performing Arts (KENNEDY CENTER),https://www.kennedy-center.org/cj,$0,Less than 0.01%
-104,,,Federal Financial Institutions Examination Council (FFIEC),not available,$0,Less than 0.01%
-105,,,Delta Regional Authority (DRA),https://dra.gov/cj,$0,Less than 0.01%
-106,,,Commission for the Preservation of America's Heritage Abroad (HERITAGEABROAD),https://www.heritageabroad.gov/cj,$0,Less than 0.01%
+,AGYT (FROM OPM DATASET),Agency,Congressional Justification of Budget (CJ),Budget,Number of Employees,Percent of Total Budget
+44,DEPARTMENT OF THE TREASURY,DEPARTMENT OF THE TREASURY,https://www.treasury.gov/cj,"$3,125,545,544,294 ",108869,28.86%
+37,DEPARTMENT OF HEALTH AND HUMAN SERVICES,DEPARTMENT OF HEALTH AND HUMAN SERVICES,https://www.hhs.gov/cj,"$2,369,129,444,329 ",91058,21.88%
+34,DEPARTMENT OF DEFENSE,DEPARTMENT OF DEFENSE,https://www.defense.gov/cj,"$1,713,980,313,483 ",762882,15.83%
+133,SOCIAL SECURITY ADMINISTRATION,SOCIAL SECURITY ADMINISTRATION,https://www.ssa.gov/cj,"$452,144,957,484 ",59227,4.17%
+46,DEPARTMENT OF VETERANS AFFAIRS,DEPARTMENT OF VETERANS AFFAIRS,https://www.va.gov/cj,"$407,272,934,513 ",486522,3.76%
+32,DEPARTMENT OF AGRICULTURE,DEPARTMENT OF AGRICULTURE,https://www.usda.gov/cj,"$340,881,137,591 ",92072,3.15%
+114,OFFICE OF PERSONNEL MANAGEMENT,OFFICE OF PERSONNEL MANAGEMENT,https://www.opm.gov/cj,"$332,817,776,552 ",2902,3.07%
+39,DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT,DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT,https://www.hud.gov/cj,"$243,042,593,624 ",8825,2.24%
+45,DEPARTMENT OF TRANSPORTATION,DEPARTMENT OF TRANSPORTATION,https://www.transportation.gov/cj,"$229,668,780,927 ",55806,2.12%
+38,DEPARTMENT OF HOMELAND SECURITY,DEPARTMENT OF HOMELAND SECURITY,https://www.dhs.gov/cj,"$165,732,491,450 ",222539,1.53%
+36,DEPARTMENT OF ENERGY,DEPARTMENT OF ENERGY,https://energy.gov/cj,"$131,893,773,207 ",16846,1.22%
+57,FEDERAL DEPOSIT INSURANCE CORPORATION,FEDERAL DEPOSIT INSURANCE CORPORATION,https://www.fdic.gov/cj,"$116,546,578,318 ",6189,1.08%
+35,DEPARTMENT OF EDUCATION,DEPARTMENT OF EDUCATION,https://www.ed.gov/cj,"$103,092,839,666 ",4245,0.95%
+123,PENSION BENEFIT GUARANTY CORPORATION,PENSION BENEFIT GUARANTY CORPORATION,https://www.pbgc.gov/cj,"$90,657,490,786 ",973,0.84%
+33,DEPARTMENT OF COMMERCE,DEPARTMENT OF COMMERCE,https://www.commerce.gov/cj,"$90,242,401,519 ",47650,0.83%
+43,DEPARTMENT OF THE INTERIOR,DEPARTMENT OF THE INTERIOR,https://www.doi.gov/cj,"$75,513,459,634 ",62890,0.70%
+23,,CORPS OF ENGINEERS - CIVIL WORKS,https://www.usace.army.mil/Missions/Civil-Works/cj,"$66,328,433,137 ","37,000",0.61%
+42,DEPARTMENT OF STATE,DEPARTMENT OF STATE,https://www.state.gov/cj,"$57,197,594,886 ",14316,0.53%
+50,ENVIRONMENTAL PROTECTION AGENCY,ENVIRONMENTAL PROTECTION AGENCY,https://www.epa.gov/cj,"$48,628,262,268 ",16450,0.45%
+69,GENERAL SERVICES ADMINISTRATION,GENERAL SERVICES ADMINISTRATION,https://www.gsa.gov/cj,"$48,322,595,047 ",12939,0.45%
+40,DEPARTMENT OF JUSTICE,DEPARTMENT OF JUSTICE,https://www.justice.gov/cj,"$46,415,907,809 ",116614,0.43%
+41,DEPARTMENT OF LABOR,DEPARTMENT OF LABOR,https://www.dol.gov/cj,"$25,748,101,540 ",14730,0.24%
+91,NATIONAL AERONAUTICS AND SPACE ADMINISTRATION,NATIONAL AERONAUTICS AND SPACE ADMINISTRATION,https://www.nasa.gov/cj,"$21,482,485,297 ",18073,0.20%
+128,RAILROAD RETIREMENT BOARD,RAILROAD RETIREMENT BOARD,https://www.rrb.gov/cj,"$16,894,592,930 ",814,0.16%
+55,FARM CREDIT SYSTEM INSURANCE CORPORATION,FARM CREDIT SYSTEM INSURANCE CORPORATION,https://www.fcsic.gov/cj,"$7,857,067,987 ",10,0.07%
+142,,U.S. INTERNATIONAL DEVELOPMENT FINANCE CORPORATION,not available,"$7,519,575,548 ","14,300",0.07%
+131,SMALL BUSINESS ADMINISTRATION,SMALL BUSINESS ADMINISTRATION,https://www.sba.gov/cj,"$6,258,875,842 ",7925,0.06%
+102,NATIONAL SCIENCE FOUNDATION,NATIONAL SCIENCE FOUNDATION,https://www.nsf.gov/cj,"$5,388,966,076 ",1657,0.05%
+20,,CONSUMER FINANCIAL PROTECTION BUREAU,https://www.consumerfinance.gov/cj,"$2,757,339,652 ","1,591",0.03%
+89,MILLENNIUM CHALLENGE CORPORATION,MILLENNIUM CHALLENGE CORPORATION,https://www.mcc.gov/cj,"$2,688,308,725 ",341,0.02%
+129,SECURITIES AND EXCHANGE COMMISSION,SECURITIES AND EXCHANGE COMMISSION,https://www.sec.gov/cj,"$1,951,500,350 ",4993,0.02%
+22,CORPORATION FOR NATIONAL AND COMMUNITY SERVICE,CORPORATION FOR NATIONAL AND COMMUNITY SERVICE,https://www.nationalservice.gov/cj,"$1,898,483,885 ",785,0.02%
+121,,PATIENT-CENTERED OUTCOMES RESEARCH TRUST FUND,not available,"$1,161,850,092 ",200,0.01%
+5,AGENCY FOR INTERNATIONAL DEVELOPMENT,AGENCY FOR INTERNATIONAL DEVELOPMENT,https://www.usaid.gov/cj,"$892,109,640 ",4675,0.01%
+52,,EXECUTIVE OFFICE OF THE PRESIDENT,https://www.whitehouse.gov/wp-content/uploads/2021/06/EOP-FY2022-Congressional-Budget-Submission.pdf,"$842,846,875 ",1800,0.01%
+19,COMMODITY FUTURES TRADING COMMISSION,COMMODITY FUTURES TRADING COMMISSION,https://www.cftc.gov/cj,"$783,763,545 ",736,0.01%
+92,NATIONAL ARCHIVES AND RECORDS ADMINISTRATION,NATIONAL ARCHIVES AND RECORDS ADMINISTRATION,https://www.archives.gov/cj,"$636,741,882 ",2800,0.01%
+106,NUCLEAR REGULATORY COMMISSION,NUCLEAR REGULATORY COMMISSION,https://www.nrc.gov/cj,"$518,853,882 ",2847,Less than 0.01%
+124,PRESIDIO TRUST,PRESIDIO TRUST,https://www.presidio.gov/presidio-trust/planning-internal/Shared%20Documents/Financial%20Documents/FIN-311-FY2022BudJust-20210602.pdf,"$514,721,398 ",297,Less than 0.01%
+138,U.S. AGENCY FOR GLOBAL MEDIA,U.S. AGENCY FOR GLOBAL MEDIA,not available,"$512,127,265 ",1293,Less than 0.01%
+70,,GOVERNMENT ACCOUNTABILITY OFFICE,https://www.gao.gov/products/gao-21-510t,"$446,760,260 ","3,000",Less than 0.01%
+72,GULF COAST ECOSYSTEM RESTORATION COUNCIL,GULF COAST ECOSYSTEM RESTORATION COUNCIL,https://www.restorethegulf.gov/cj,"$312,241,990 ",25,Less than 0.01%
+122,PEACE CORPS,PEACE CORPS,https://www.peacecorps.gov/cj,"$279,549,183 ",983,Less than 0.01%
+53,EXPORT-IMPORT BANK OF THE UNITED STATES,EXPORT-IMPORT BANK OF THE UNITED STATES,https://www.exim.gov/cj,"$272,797,590 ",398,Less than 0.01%
+68,FEDERAL TRADE COMMISSION,FEDERAL TRADE COMMISSION,https://www.ftc.gov/cj,"$250,777,123 ",1301,Less than 0.01%
+105,NORTHERN BORDER REGIONAL COMMISSION,NORTHERN BORDER REGIONAL COMMISSION,https://www.nbrc.gov/content/CJ,"$234,209,811 ",3,Less than 0.01%
+48,,DISTRICT OF COLUMBIA COURTS,https://www.dccourts.gov/cj,"$232,847,960 ",893,Less than 0.01%
+51,EQUAL EMPLOYMENT OPPORTUNITY COMMISSION,EQUAL EMPLOYMENT OPPORTUNITY COMMISSION,https://www.eeoc.gov/cj,"$232,290,527 ",2258,Less than 0.01%
+65,FEDERAL PERMITTING IMPROVEMENT STEERING COUNCIL,FEDERAL PERMITTING IMPROVEMENT STEERING COUNCIL,https://www.permits.performance.gov/documentation/fpisc-fy-2022-budget-request,"$223,313,292 ",18,Less than 0.01%
+27,,COURT SERVICES AND OFFENDER SUPERVISION AGENCY,https://www.csosa.gov/cj,"$212,439,895 ",1252,Less than 0.01%
+75,,INSTITUTE OF MUSEUM AND LIBRARY SERVICES,https://www.imls.gov/cj,"$162,467,565 ",70,Less than 0.01%
+10,ARMED FORCES RETIREMENT HOME,ARMED FORCES RETIREMENT HOME,not available,"$160,866,366 ",306,Less than 0.01%
+100,NATIONAL LABOR RELATIONS BOARD,NATIONAL LABOR RELATIONS BOARD,https://www.nlrb.gov/cj,"$150,422,004 ",1212,Less than 0.01%
+6,AMERICAN BATTLE MONUMENTS COMMISSION,AMERICAN BATTLE MONUMENTS COMMISSION,https://www.abmc.gov/cj,"$145,716,391 ",74,Less than 0.01%
+98,,NATIONAL ENDOWMENT FOR THE HUMANITIES,https://www.neh.gov/cj,"$142,599,625 ",500,Less than 0.01%
+31,DENALI COMMISSION,DENALI COMMISSION,https://www.denali.gov/cj,"$142,294,938 ",15,Less than 0.01%
+81,,INTERNATIONAL TRADE COMMISSION,https://www.usitc.gov/cj,"$131,276,337 ",365,Less than 0.01%
+146,,UNITED STATES TRADE AND DEVELOPMENT AGENCY,https://www.ustda.gov/cj,"$127,522,040 ",200,Less than 0.01%
+97,,NATIONAL ENDOWMENT FOR THE ARTS,https://www.arts.gov/cj,"$124,111,673 ",200,Less than 0.01%
+145,,UNITED STATES COURT OF APPEALS FOR VETERANS CLAIMS,https://www.uscourts.cavc.gov/cj,"$98,198,061 ",200,Less than 0.01%
+104,NATIONAL TRANSPORTATION SAFETY BOARD,NATIONAL TRANSPORTATION SAFETY BOARD,https://www.ntsb.gov/cj,"$94,144,530 ",429,Less than 0.01%
+49,ELECTION ASSISTANCE COMMISSION,ELECTION ASSISTANCE COMMISSION,https://www.eac.gov/cj,"$77,438,753 ",82,Less than 0.01%
+21,CONSUMER PRODUCT SAFETY COMMISSION,CONSUMER PRODUCT SAFETY COMMISSION,https://www.cpsc.gov/cj,"$74,319,164 ",562,Less than 0.01%
+25,COUNCIL OF THE INSPECTORS GENERAL ON INTEGRITY AND EFFICIENCY,COUNCIL OF THE INSPECTORS GENERAL ON INTEGRITY AND EFFICIENCY,https://www.ignet.gov/cj,"$67,735,777 ",38,Less than 0.01%
+63,FEDERAL MEDIATION AND CONCILIATION SERVICE,FEDERAL MEDIATION AND CONCILIATION SERVICE,https://www.fmcs.gov/cj,"$45,354,632 ",200,Less than 0.01%
+58,FEDERAL ELECTION COMMISSION,FEDERAL ELECTION COMMISSION,https://www.fec.gov/cj,"$45,191,023 ",302,Less than 0.01%
+11,BARRY GOLDWATER SCHOLARSHIP AND EXCELLENCE IN EDUCATION FOUNDATION,BARRY GOLDWATER SCHOLARSHIP AND EXCELLENCE IN EDUCATION FOUNDATION,http://goldwaterscholarship.gov/,"$40,819,574 ",3,Less than 0.01%
+77,INTER-AMERICAN FOUNDATION,INTER-AMERICAN FOUNDATION,not available,"$39,364,937 ",48,Less than 0.01%
+4,AFRICAN DEVELOPMENT FOUNDATION,AFRICAN DEVELOPMENT FOUNDATION,https://www.usadf.gov/cj,"$38,953,733 ",30,Less than 0.01%
+82,JAMES MADISON MEMORIAL FELLOWSHIP FOUNDATION,JAMES MADISON MEMORIAL FELLOWSHIP FOUNDATION,not available,"$36,002,850 ",6,Less than 0.01%
+88,MERIT SYSTEMS PROTECTION BOARD,MERIT SYSTEMS PROTECTION BOARD,https://www.mspb.gov/cj,"$29,447,634 ",185,Less than 0.01%
+29,DEFENSE NUCLEAR FACILITIES SAFETY BOARD,DEFENSE NUCLEAR FACILITIES SAFETY BOARD,https://www.dnfsb.gov/cj,"$27,813,096 ",114,Less than 0.01%
+135,SURFACE TRANSPORTATION BOARD,SURFACE TRANSPORTATION BOARD,https://www.stb.gov/cj,"$27,449,090 ",123,Less than 0.01%
+73,,HARRY S TRUMAN SCHOLARSHIP FOUNDATION,not available,"$25,160,866 ",21,Less than 0.01%
+90,MORRIS K. UDALL AND STEWART L. UDALL FOUNDATION,MORRIS K. UDALL AND STEWART L. UDALL FOUNDATION,https://udall.gov/cj,"$23,047,012 ",43,Less than 0.01%
+62,FEDERAL MARITIME COMMISSION,FEDERAL MARITIME COMMISSION,https://www.fmc.gov/cj,"$22,381,144 ",137,Less than 0.01%
+119,,OVERSEAS PRIVATE INVESTMENT CORPORATION,https://www.opic.gov/cj,"$19,803,044 ",,Less than 0.01%
+130,SELECTIVE SERVICE SYSTEM,SELECTIVE SERVICE SYSTEM,https://www.sss.gov/cj,"$19,118,032 ",166,Less than 0.01%
+110,OFFICE OF GOVERNMENT ETHICS,OFFICE OF GOVERNMENT ETHICS,https://www.oge.gov/cj,"$16,627,193 ",73,Less than 0.01%
+64,FEDERAL MINE SAFETY AND HEALTH REVIEW COMMISSION,FEDERAL MINE SAFETY AND HEALTH REVIEW COMMISSION,https://www.fmshrc.gov/cj,"$15,352,499 ",58,Less than 0.01%
+7,APPALACHIAN REGIONAL COMMISSION,APPALACHIAN REGIONAL COMMISSION,https://www.arc.gov/cj,"$15,346,375 ",5,Less than 0.01%
+116,OFFICE OF SPECIAL COUNSEL,OFFICE OF SPECIAL COUNSEL,https://osc.gov/cj,"$14,983,540 ",130,Less than 0.01%
+96,NATIONAL CREDIT UNION ADMINISTRATION,NATIONAL CREDIT UNION ADMINISTRATION,https://www.ncua.gov/cj,"$13,908,657 ",1230,Less than 0.01%
+61,FEDERAL LABOR RELATIONS AUTHORITY,FEDERAL LABOR RELATIONS AUTHORITY,https://www.flra.gov/cj,"$13,666,920 ",121,Less than 0.01%
+144,,UNITED STATES CHEMICAL SAFETY BOARD,https://www.csb.gov/cj,"$12,754,024 ",5,Less than 0.01%
+93,NATIONAL CAPITAL PLANNING COMMISSION,NATIONAL CAPITAL PLANNING COMMISSION,https://www.ncpc.gov/docs/NCPC_Justification_for_Appropriation_FY_2022.pdf,"$12,230,774 ",35,Less than 0.01%
+125,PRIVACY AND CIVIL LIBERTIES OVERSIGHT BOARD,PRIVACY AND CIVIL LIBERTIES OVERSIGHT BOARD,not available,"$10,729,580 ",31,Less than 0.01%
+3,ADVISORY COUNCIL ON HISTORIC PRESERVATION,ADVISORY COUNCIL ON HISTORIC PRESERVATION,https://www.achp.gov/sites/default/files/2021-06/ACHP%202022%20Budget%20Justification-final-5-10-21.pdf,"$10,714,903 ",53,Less than 0.01%
+108,OCCUPATIONAL SAFETY AND HEALTH REVIEW COMMISSION,OCCUPATIONAL SAFETY AND HEALTH REVIEW COMMISSION,https://www.oshrc.gov/cj,"$10,497,219 ",50,Less than 0.01%
+101,NATIONAL MEDIATION BOARD,NATIONAL MEDIATION BOARD,https://nmb.gov/cj,"$9,842,953 ",35,Less than 0.01%
+18,,COMMITTEE FOR PURCHASE FROM PEOPLE WHO ARE BLIND OR SEVERELY DISABLED,https://www.abilityone.gov/cj,"$9,825,723 ","40,000",Less than 0.01%
+16,COMMISSION ON CIVIL RIGHTS,COMMISSION ON CIVIL RIGHTS,https://www.usccr.gov/cj/,"$8,778,378 ",62,Less than 0.01%
+0,,ACCESS BOARD,https://www.access-board.gov/cj,"$7,998,645 ",30,Less than 0.01%
+15,COMMISSION OF FINE ARTS,COMMISSION OF FINE ARTS,https://www.cfa.gov/cj,"$4,938,537 ",12,Less than 0.01%
+113,OFFICE OF NAVAJO AND HOPI INDIAN RELOCATION,OFFICE OF NAVAJO AND HOPI INDIAN RELOCATION,not available,"$4,867,768 ",18,Less than 0.01%
+107,NUCLEAR WASTE TECHNICAL REVIEW BOARD,NUCLEAR WASTE TECHNICAL REVIEW BOARD,https://www.nwtrb.gov/cj,"$2,993,739 ",19,Less than 0.01%
+83,JAPAN-UNITED STATES FRIENDSHIP COMMISSION,JAPAN-UNITED STATES FRIENDSHIP COMMISSION,not available,"$2,197,162 ",13,Less than 0.01%
+1,,ADMINISTRATIVE CONFERENCE OF THE U.S.,https://www.acus.gov/cj,"$1,685,674 ",18,Less than 0.01%
+86,MARINE MAMMAL COMMISSION,MARINE MAMMAL COMMISSION,https://www.mmc.gov/cj,$0 ,23,Less than 0.01%
+14,COMMISSION FOR THE PRESERVATION OF AMERICA'S HERITAGE ABROAD,COMMISSION FOR THE PRESERVATION OF AMERICA'S HERITAGE ABROAD,https://www.heritageabroad.gov/cj,$0 ,20,Less than 0.01%
+95,NATIONAL COUNCIL ON DISABILITY,NATIONAL COUNCIL ON DISABILITY,https://www.ncd.gov/cj,$0 ,19,Less than 0.01%
+59,FEDERAL FINANCIAL INSTITUTIONS EXAMINATION COUNCIL,FEDERAL FINANCIAL INSTITUTIONS EXAMINATION COUNCIL,not available,$0 ,17,Less than 0.01%
+141,U.S. INTERAGENCY COUNCIL ON HOMELESSNESS,U.S. INTERAGENCY COUNCIL ON HOMELESSNESS,https://www.usich.gov/cj,$0 ,16,Less than 0.01%
+126,PUBLIC BUILDINGS REFORM BOARD,PUBLIC BUILDINGS REFORM BOARD,https://www.pbrb.gov/cj/,$0 ,7,Less than 0.01%
+30,DELTA REGIONAL AUTHORITY,DELTA REGIONAL AUTHORITY,https://dra.gov/cj,$0 ,1,Less than 0.01%
+84,,JOHN F. KENNEDY CENTER FOR THE PERFORMING ARTS,https://www.kennedy-center.org/cj,$0 ,50,Less than 0.01%
+149,,VIETNAM EDUCATION FOUNDATION,not available,$0 ,2,Less than 0.01%
+56,FEDERAL COMMUNICATIONS COMMISSION,FEDERAL COMMUNICATIONS COMMISSION,https://www.fcc.gov/cj,"($17,578,624,571)",1534,-0.16%
+132,SMITHSONIAN INSTITUTION,,,,4463,
+66,FEDERAL RESERVE SYSTEM,,,,1687,
+71,GOVERNMENT PRINTING OFFICE,,,,1631,
+28,COURT SERVICES AND OFFENDER SUPERVISION AGENCY FOR THE DISTRICT OF COLUMBIA,,,,1016,
+111,OFFICE OF MANAGEMENT AND BUDGET,,,,813,
+60,FEDERAL HOUSING FINANCE AGENCY,,,,813,
+47,DEVELOPMENT FINANCE CORPORATION,,,,680,
+99,NATIONAL FOUNDATION ON THE ARTS AND THE HUMANITIES,,,,455,
+143,U.S. INTERNATIONAL TRADE COMMISSION,,,,414,
+54,FARM CREDIT ADMINISTRATION,,,,330,
+118,OFFICE OF THE U.S. TRADE REPRESENTATIVE,,,,259,
+78,"INTERNATIONAL BOUNDARY AND WATER COMMISSION, U.S. SECTION",,,,256,
+109,OFFICE OF ADMINISTRATION,,,,247,
+67,FEDERAL RETIREMENT THRIFT INVESTMENT BOARD,,,,242,
+85,JUDICIAL BRANCH,,,,159,
+140,U.S. HOLOCAUST MEMORIAL MUSEUM,,,,117,
+117,OFFICE OF THE CYBER DIRECTOR,,,,74,
+137,TRADE AND DEVELOPMENT AGENCY,,,,71,
+103,NATIONAL SECURITY COUNCIL,,,,69,
+112,OFFICE OF NATIONAL DRUG CONTROL POLICY,,,,65,
+26,COUNCIL ON ENVIRONMENTAL QUALITY/OFFICE OF ENVIRONMENTAL QUALITY,,,,51,
+87,MEDICAID AND CHIP PAYMENT AND ACCESS COMMISSION,,,,47,
+17,COMMITTEE FOR PURCHASE FROM PEOPLE WHO ARE BLIND OR SE VERELY DISABLED,,,,44,
+12,CHEMICAL SAFETY AND HAZARD INVESTIGATION BOARD,,,,43,
+8,ARCHITECTURAL AND TRANSPORTATION BARRIERS COMPLIANCE BOARD,,,,39,
+115,OFFICE OF SCIENCE AND TECHNOLOGY POLICY,,,,33,
+147,UNITED STATES-CHINA ECONOMIC AND SECURITY REVIEW COMMISSION,,,,28,
+24,COUNCIL OF ECONOMIC ADVISERS,,,,23,
+139,U.S. COMMISSION ON INTERNATIONAL RELIGIOUS FREEDOM,,,,22,
+80,INTERNATIONAL JOINT COMMISSION: UNITED STATES AND CANADA,,,,20,
+94,NATIONAL COMMISSION ON LIBRARIES AND INFORMATION SCIENCE,,,,17,
+148,UTAH RECLAMATION MITIGATION AND CONSERVATION COMMISSION,,,,14,
+2,ADMINISTRATIVE CONFERENCE OF THE UNITED STATES,,,,11,
+127,PUBLIC INTEREST DECLASSIFICATION BOARD,,,,9,
+150,WORLD WAR 1 CENTENNIAL COMMISSION,,,,7,
+136,THE US SEMIQUINCENTENNIAL COMMISSION,,,,6,
+79,INTERNATIONAL BOUNDARY COMMISSION: UNITED STATES AND CANADA,,,,6,
+13,CIVIL RIGHTS COLD CASE REVIEW BOARD (CRCCRB),,,,5,
+74,HARRY S. TRUMAN SCHOLARSHIP FOUNDATION,,,,5,
+9,ARCTIC RESEARCH COMMISSION,,,,2,
+76,INTELLECTUAL PROPERTY ENFORCEMENT COORDINATOR,,,,2,
+120,Office of Pandemic Preparedness and Response Policy,,,,1,
+134,SOUTHWEST BORDER REGIONAL COMMISSION,,,,1,
